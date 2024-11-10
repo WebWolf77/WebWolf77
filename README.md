@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on exciting web development projects and contribute to open-source communities.
 
-📫 How to reach me: You can email me at webwolf77@example.com or connect with me on LinkedIn.
+📫 How to reach me: You can email me at tommyecom888@gmail.com or connect with me on LinkedIn.
 
 😄 Pronouns: he/him
 
