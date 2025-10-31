@@ -1,15 +1,23 @@
-👋 Hi, I’m @WebWolf77
+## Hi, I’m **Thomas Patlias** (@WebWolf77)
 
-👀 I’m interested in web development, open-source projects, and creating innovative solutions.
+**Full Stack Web Developer / Designer**  
+Passionate about building functional, user-friendly, and visually appealing web applications.
 
-🌱 I’m currently learning advanced JavaScript frameworks like React and Vue.js.
+---
 
-💞️ I’m looking to collaborate on exciting web development projects and contribute to open-source communities.
+### About Me  
+- I’ve completed my studies in **Web Development & Design** at **ΣΑΕΚ Κέρκυρας**.  
+- Currently doing my **internship at Go Creations**, where I:  
+  - Maintain and develop a **car reservation system**.  
+  - Collaborate with the team and communicate directly with clients.  
+  - Develop **new features** and work on **full stack applications**.  
+- I focus on **modern web technologies** and clean, efficient code.    
 
-📫 How to reach me: You can email me at tommyecom888@gmail.com .
+---
 
-⚡ Fun fact: I can solve a Rubik's Cube in under two minutes!
-<!---
-WebWolf77/WebWolf77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Tech Stack  
+**Frontend:** HTML5, CSS3 / SASS, JavaScript (ES6+), React.js, Redux, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs  
+**Other Tools:** Git & GitHub, Figma, VS Code, Postman, MS Office, PostgreSQL  
+
+---
