@@ -6,7 +6,7 @@ Passionate about building functional, user-friendly, and visually appealing web 
 ---
 
 ### About Me  
-- I’ve completed my studies in **Web Development & Design** at **ΣΑΕΚ Κέρκυρας**.  
+- I’ve completed my studies in **Web Development & Design** at **SAEK CORFU**.  
 - Currently doing my **internship at Go Creations**, where I:  
   - Maintain and develop a **car reservation system**.  
   - Collaborate with the team and communicate directly with clients.  
