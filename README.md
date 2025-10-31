@@ -16,8 +16,8 @@ Passionate about building functional, user-friendly, and visually appealing web 
 ---
 
 ### Tech Stack  
-**Frontend:** HTML5, CSS3 / SASS, JavaScript (ES6+), React.js, Redux, TailwindCSS  
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs  
-**Other Tools:** Git & GitHub, Figma, VS Code, Postman, MS Office, PostgreSQL  
+**Frontend:** HTML5, CSS3 / SASS, JavaScript (ES6+), React.js, TailwindCSS  
+**Backend:** PHP, Node.js, Express.js, MongoDB, Mongoose, RESTful APIs  
+**Other Tools:** Git & GitHub, Figma, VS Code, MS Office, PostgreSQL  
 
 ---
