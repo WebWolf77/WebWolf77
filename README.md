@@ -1,6 +1,6 @@
 ## Hi, I’m **Thomas Patlias** (@WebWolf77)
 
-**Full Stack Web Developer / Designer**  
+**Web Developer**  
 Passionate about building functional, user-friendly, and visually appealing web applications.
 
 ---
